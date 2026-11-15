@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.Python
+build/
+dist/
+
+# Reverse-engineering working files — do not commit, these are Mattel's
+*.apk
+*.xapk
+*.dex
+*.so
+global-metadata.dat
+extracted_apk/
+jadx*/
+*_src/
+
+# Camera investigation output
+frame_*.jpg
+test.mp4
+*.pcap
+*.pcapng
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Swift Playgrounds
+*.swiftpm/
+.build/

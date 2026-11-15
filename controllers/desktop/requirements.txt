@@ -1,0 +1,4 @@
+# pygame-ce is a drop-in replacement for pygame that ships prebuilt wheels
+# for current Python versions. Mainline pygame often fails to build on
+# Python 3.13+ without a Visual Studio C++ toolchain.
+pygame-ce>=2.4.0
