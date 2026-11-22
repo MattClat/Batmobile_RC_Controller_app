@@ -131,4 +131,4 @@ This is an independent interoperability project. It is not affiliated with, endo
 
 Reverse engineering was performed on a lawfully purchased device for the sole purpose of restoring interoperability after the manufacturer discontinued support. No app code, assets, or binaries are redistributed here — only the protocol documentation and independently written implementations.
 
-Released under the [MIT License](LICENSE).
+Released under the PolyForm Noncommercial License 1.0.0
