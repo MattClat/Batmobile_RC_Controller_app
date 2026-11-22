@@ -7,7 +7,8 @@ This repo documents the complete reverse-engineered control protocol and provide
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20iOS-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen)
 ![Swift](https://img.shields.io/badge/swift-SwiftUI-orange)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+[![License](https://shields.io)](./LICENSE)
+
 
 ---
 
