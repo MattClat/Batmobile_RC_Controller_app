@@ -7,7 +7,7 @@ This repo documents the complete reverse-engineered control protocol and provide
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20iOS-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen)
 ![Swift](https://img.shields.io/badge/swift-SwiftUI-orange)
-[![License](https://shields.io)](./LICENSE)
+[![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-orange)](./LICENSE)
 
 
 ---
