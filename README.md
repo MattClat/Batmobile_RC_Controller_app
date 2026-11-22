@@ -131,4 +131,12 @@ This is an independent interoperability project. It is not affiliated with, endo
 
 Reverse engineering was performed on a lawfully purchased device for the sole purpose of restoring interoperability after the manufacturer discontinued support. No app code, assets, or binaries are redistributed here — only the protocol documentation and independently written implementations.
 
-Released under the PolyForm Noncommercial License 1.0.0
+## License
+
+This project is licensed under the **PolyForm Noncommercial License 1.0.0**. 
+
+* **Allowed:** You are free to download, use, and modify this app for **personal, educational, or non-commercial purposes**.
+* **Not Allowed:** You may **not** sell this app, offer it as a paid service, or use it for any commercial or for-profit purpose.
+
+See the [LICENSE](./LICENSE) file for the full legal terms.
+
